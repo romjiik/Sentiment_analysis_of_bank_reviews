@@ -1,5 +1,5 @@
 # Sentiment_analysis_of_bank_reviews
-Course work at the Higher School of Economics on the topic Sentiment Analysis of Bank Reviews
+Course work at the Higher School of Economics on the topic "Sentiment Analysis of Bank Reviews"
 
 # How to run
 All the code is in the folder "notebooks_with_code". To run logistic regression, BERT with MLP, BERT plus CNN with MLP or GPT3 with MLP you need to run "Tf-idf plus logreg regression baseline.ipynb", "BERT.ipynb", "BERT_AND_GPT_CNN.ipynb" respectively. Also you need to specify the correct path to the data.
