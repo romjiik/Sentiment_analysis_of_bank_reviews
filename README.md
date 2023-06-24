@@ -5,7 +5,7 @@ Course work at the Higher School of Economics on the topic "Sentiment Analysis o
 All the code is in the folder "notebooks_with_code". To run logistic regression, BERT with MLP, BERT plus CNN with MLP or GPT3 with MLP you need to run "Tf-idf plus logreg regression baseline.ipynb", "BERT.ipynb", "BERT_AND_GPT_CNN.ipynb" respectively. Also you need to specify the correct path to the data.
 
 # Where to find data
-The data is located in the data folder and is called "final_review_dataset_extended.csv". The code with which the data was obtained is located in the same folder. Also the data is published on [Hugging Face](https://huggingface.co/datasets/Romjiik/Russian_bank_reviews) or on [Kaggle](https://www.kaggle.com/datasets/romanberdyshev/bank-reviews-dataset)
+The data is located in the data folder and is called "final_review_dataset_extended.csv". The code with which the data was obtained is located in the same folder. Also the data is published on [Hugging Face](https://huggingface.co/datasets/Romjiik/Russian_bank_reviews) and on [Kaggle](https://www.kaggle.com/datasets/romanberdyshev/bank-reviews-dataset)
 
 ## Dataset Description
 ### Dataset Summary
